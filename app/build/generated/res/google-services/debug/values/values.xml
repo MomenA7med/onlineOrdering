@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">68100356143-0e50eopr3t98mg0fg83e742m1i8o8vjb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://onlineording.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">68100356143</string>
+    <string name="google_api_key" translatable="false">AIzaSyAR3Wz66c3jfy3TM09BZaIBZhCMepz3vSY</string>
+    <string name="google_app_id" translatable="false">1:68100356143:android:bbec24336a47f1d8102eda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAR3Wz66c3jfy3TM09BZaIBZhCMepz3vSY</string>
+    <string name="google_storage_bucket" translatable="false">onlineording.appspot.com</string>
+    <string name="project_id" translatable="false">onlineording</string>
+</resources>

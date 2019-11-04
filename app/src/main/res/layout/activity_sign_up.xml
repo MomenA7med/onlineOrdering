@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sign_up"
+    android:background="@drawable/background4"
+    android:id="@+id/background_2"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_centerInParent="true"
+        >
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+
+
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:hint="Phone Number"
+            android:id="@+id/editPhone"
+            android:textColorHint="@android:color/white"
+
+            android:textColor="@android:color/white"
+            app:met_floatingLabel="highlight"
+            app:met_maxCharacters="11"
+            android:textSize="34sp"
+            android:inputType="phone"
+            app:met_primaryColor="@android:color/white"
+            app:met_singleLineEllipsis="true"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+
+
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:hint="Name"
+            android:id="@+id/edit_Name"
+            android:textColorHint="@android:color/white"
+
+            android:textColor="@android:color/white"
+            app:met_floatingLabel="highlight"
+            app:met_maxCharacters="11"
+            android:textSize="34sp"
+            android:inputType="text"
+            app:met_primaryColor="@android:color/white"
+            app:met_singleLineEllipsis="true"
+            />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+
+            app:met_baseColor="#A0522D"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:id="@+id/editPass"
+            android:textColorHint="@android:color/white"
+
+            android:textSize="34sp"
+            android:textColor="@android:color/white"
+            app:met_floatingLabel="highlight"
+            app:met_maxCharacters="11"
+            app:met_primaryColor="@android:color/white"
+            app:met_singleLineEllipsis="true"
+            />
+
+        ></LinearLayout>
+
+    <Button
+
+
+        android:text="SIGN UP"
+        android:textColorHighlight="@color/fbutton_color_silver"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:id="@+id/sign_up"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        />
+
+</RelativeLayout>

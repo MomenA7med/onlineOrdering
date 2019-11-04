@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30098224852",
+    "firebase_url": "https://androidonlineordering.firebaseio.com",
+    "project_id": "androidonlineordering",
+    "storage_bucket": "androidonlineordering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30098224852:android:05b23c50a3e1126a",
+        "android_client_info": {
+          "package_name": "com.example.omarf.onlineordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30098224852-s6lmf5h24g4t0hmnj2q2nblpn2ejildi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omarf.onlineordering",
+            "certificate_hash": "eb08b4df1aacfeacb1b18ffd6722dd691d7d4eeb"
+          }
+        },
+        {
+          "client_id": "30098224852-4c476c6a3cafqlu9ro8a1lp3cehfhqai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGcnNztAn-x0w22jo3rEQsKZptXQspd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30098224852-4c476c6a3cafqlu9ro8a1lp3cehfhqai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

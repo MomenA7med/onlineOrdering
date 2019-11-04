@@ -1,0 +1,712 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\852a13d57ca592095cd4da56b13fc872\AndroidManifest.xml:2:1-14:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d4caa9c693dccffc8dcb804459c394d2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9239b256f72b5cb1285b28063e04520f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\bb13e3dbd41f8de8d2c0bb41fee62d0b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:2:1-19:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1e8ab56183bc36d567cf6410cb7f4cdd\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\cc182596eafdec0c1699c964afc39421\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6047a8f26b59d822832825ca3a1930be\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25841925281beda77963f540772a6700\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6ab2355573bd17e782ea7e057890edf5\AndroidManifest.xml:2:1-9:12
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9eedb945e06664c3c0b200a8c544e361\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b7f2ccaedc40d85074b2119ac33c890b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\68fccf21918adc06cecdd901dce7a5e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\da9f5267b725c2e9f2f218f60cbacb61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6b29296d88ba746ff059f517f8d924ed\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\458a48ef89ca8d4ecc011e6ae4f6f29c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6535e9b45563ad61a0a511615ffcb774\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\fc252238c865c01179bfa2dfcf834d3d\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6c987f2dc1951e8877ffc7e034ee4c6c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5d30c5b0e5661455e7260c24c8f3cdfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f7b36c4371628705e67ceb216d9622e1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\df2d52c55c038d757f7fa4f6f6d982a8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1cfae44df9571a0195a0e9f92a1649f7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\4c95be6f121178330ee91527a26def75\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3bc8ce0650cd53a21f379948f3419adb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\73f672670aa517bda9bb06cd29c2e60b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a48cc9b798cb35fcd96b4c19e840ccbe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\c04f39a42b5a406dfa955ddc257dd9d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\eed32cc0b184fc0f74ff233329962dd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3545f161ad72badc50168058ca7ddd3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\92ab06a2d5bc9ddc984a1281c61c5253\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\8d2bafbeb960f53522687c185c68557b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b621212c60a818f6469155e04b775668\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\ae57358bb60278ca1c76d2260efdb338\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25163bda67ab7c6adda9b47ce23b9dca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\26f1bb22ae28596931887f0759e23fc0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\96cc4de3a011f2a089cf2c3c48908ed9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d6ac25a0e09bea6194415a355ae1121f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\779441979d8e6e8f0a86f916080b5883\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a664682adf1035b3e6be087406421992\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6c987f2dc1951e8877ffc7e034ee4c6c\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6c987f2dc1951e8877ffc7e034ee4c6c\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\852a13d57ca592095cd4da56b13fc872\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\852a13d57ca592095cd4da56b13fc872\AndroidManifest.xml:12:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d4caa9c693dccffc8dcb804459c394d2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d4caa9c693dccffc8dcb804459c394d2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:15:5-112:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:15:5-112:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6047a8f26b59d822832825ca3a1930be\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6047a8f26b59d822832825ca3a1930be\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6ab2355573bd17e782ea7e057890edf5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6ab2355573bd17e782ea7e057890edf5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6b29296d88ba746ff059f517f8d924ed\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6b29296d88ba746ff059f517f8d924ed\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\fc252238c865c01179bfa2dfcf834d3d\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\fc252238c865c01179bfa2dfcf834d3d\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5d30c5b0e5661455e7260c24c8f3cdfb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5d30c5b0e5661455e7260c24c8f3cdfb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\df2d52c55c038d757f7fa4f6f6d982a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\df2d52c55c038d757f7fa4f6f6d982a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1cfae44df9571a0195a0e9f92a1649f7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1cfae44df9571a0195a0e9f92a1649f7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\4c95be6f121178330ee91527a26def75\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\4c95be6f121178330ee91527a26def75\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a664682adf1035b3e6be087406421992\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a664682adf1035b3e6be087406421992\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.omarf.onlineordering.MainActivity
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.omarf.onlineordering.sign_in
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:22:19-42
+activity#com.example.omarf.onlineordering.sign_up
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:23:19-42
+activity#com.example.omarf.onlineordering.home_1
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:24:9-27:47
+	android:label
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:26:13-58
+	android:theme
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:25:13-35
+activity#com.example.omarf.onlineordering.FoodList
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:28:9-46
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:28:19-43
+activity#com.example.omarf.onlineordering.FoodDetail
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:29:19-45
+activity#com.example.omarf.onlineordering.Cart
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:30:9-42
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:30:19-39
+activity#com.example.omarf.onlineordering.order_status
+ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml:31:19-47
+uses-sdk
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\852a13d57ca592095cd4da56b13fc872\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\852a13d57ca592095cd4da56b13fc872\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d4caa9c693dccffc8dcb804459c394d2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d4caa9c693dccffc8dcb804459c394d2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9239b256f72b5cb1285b28063e04520f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9239b256f72b5cb1285b28063e04520f\AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\bb13e3dbd41f8de8d2c0bb41fee62d0b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\bb13e3dbd41f8de8d2c0bb41fee62d0b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1e8ab56183bc36d567cf6410cb7f4cdd\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1e8ab56183bc36d567cf6410cb7f4cdd\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\cc182596eafdec0c1699c964afc39421\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\cc182596eafdec0c1699c964afc39421\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6047a8f26b59d822832825ca3a1930be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6047a8f26b59d822832825ca3a1930be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25841925281beda77963f540772a6700\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25841925281beda77963f540772a6700\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6ab2355573bd17e782ea7e057890edf5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6ab2355573bd17e782ea7e057890edf5\AndroidManifest.xml:5:5-44
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9eedb945e06664c3c0b200a8c544e361\AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\9eedb945e06664c3c0b200a8c544e361\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b7f2ccaedc40d85074b2119ac33c890b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b7f2ccaedc40d85074b2119ac33c890b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\68fccf21918adc06cecdd901dce7a5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\68fccf21918adc06cecdd901dce7a5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\da9f5267b725c2e9f2f218f60cbacb61\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\da9f5267b725c2e9f2f218f60cbacb61\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6b29296d88ba746ff059f517f8d924ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6b29296d88ba746ff059f517f8d924ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\458a48ef89ca8d4ecc011e6ae4f6f29c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\458a48ef89ca8d4ecc011e6ae4f6f29c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6535e9b45563ad61a0a511615ffcb774\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6535e9b45563ad61a0a511615ffcb774\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\fc252238c865c01179bfa2dfcf834d3d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\fc252238c865c01179bfa2dfcf834d3d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6c987f2dc1951e8877ffc7e034ee4c6c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\6c987f2dc1951e8877ffc7e034ee4c6c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5d30c5b0e5661455e7260c24c8f3cdfb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5d30c5b0e5661455e7260c24c8f3cdfb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f7b36c4371628705e67ceb216d9622e1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f7b36c4371628705e67ceb216d9622e1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\df2d52c55c038d757f7fa4f6f6d982a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\df2d52c55c038d757f7fa4f6f6d982a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1cfae44df9571a0195a0e9f92a1649f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\1cfae44df9571a0195a0e9f92a1649f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\4c95be6f121178330ee91527a26def75\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\4c95be6f121178330ee91527a26def75\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3bc8ce0650cd53a21f379948f3419adb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3bc8ce0650cd53a21f379948f3419adb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\73f672670aa517bda9bb06cd29c2e60b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\73f672670aa517bda9bb06cd29c2e60b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a48cc9b798cb35fcd96b4c19e840ccbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a48cc9b798cb35fcd96b4c19e840ccbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\c04f39a42b5a406dfa955ddc257dd9d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\c04f39a42b5a406dfa955ddc257dd9d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\eed32cc0b184fc0f74ff233329962dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\eed32cc0b184fc0f74ff233329962dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3545f161ad72badc50168058ca7ddd3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\3545f161ad72badc50168058ca7ddd3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\92ab06a2d5bc9ddc984a1281c61c5253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\92ab06a2d5bc9ddc984a1281c61c5253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\8d2bafbeb960f53522687c185c68557b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\8d2bafbeb960f53522687c185c68557b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b621212c60a818f6469155e04b775668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b621212c60a818f6469155e04b775668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\ae57358bb60278ca1c76d2260efdb338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\ae57358bb60278ca1c76d2260efdb338\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25163bda67ab7c6adda9b47ce23b9dca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\25163bda67ab7c6adda9b47ce23b9dca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\26f1bb22ae28596931887f0759e23fc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\26f1bb22ae28596931887f0759e23fc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\96cc4de3a011f2a089cf2c3c48908ed9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\96cc4de3a011f2a089cf2c3c48908ed9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d6ac25a0e09bea6194415a355ae1121f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\d6ac25a0e09bea6194415a355ae1121f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\779441979d8e6e8f0a86f916080b5883\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\779441979d8e6e8f0a86f916080b5883\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a664682adf1035b3e6be087406421992\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\a664682adf1035b3e6be087406421992\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Momen\Downloads\Compressed\Online Ordering\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:16:9-18:69
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:14:9-16:69
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\0fbde2372518080e016676ba0e30d225\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\916636c00faf151b3be627c048f753c2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.provider.GitHubLoginActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:38:9-58:20
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:41:13-29
+	android:launchMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:42:13-43
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:40:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:39:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/firebase_web_host+data:path:/__/auth/handler+data:scheme:https
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:44:13-57:29
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:46:17-47
+	android:autoVerify
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:45:17-42
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:50:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:52:17-56:64
+	android:path
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:54:21-52
+	android:host
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:53:21-61
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:55:21-43
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:56:21-61
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:59:9-63:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:62:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:63:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:60:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:64:9-68:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:67:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:68:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:65:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:69:9-73:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:72:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:73:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:70:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:77:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:75:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:79:9-83:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:82:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:83:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:80:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:84:9-87:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:87:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:85:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:88:9-92:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:91:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:90:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:89:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:93:9-105:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:95:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:94:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:97:13-104:29
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:107:9-111:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:109:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:110:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:111:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\350b906663201482fa3892762308a493\AndroidManifest.xml:108:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\f90f5a4bf17577b3282e351bbf55f953\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\816f80c755d347e6474fbe69677e1b31\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\b66addcf7143a9f479220d2b78486504\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\634a32a8d1772eab43ccc58ae70fe6cb\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\5a818a90fd9536fd4e9dbbc1b1c0663a\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:29:9-63
+permission#com.example.omarf.onlineordering.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:32:22-76
+uses-permission#com.example.omarf.onlineordering.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.omarf.onlineordering
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:48:27-58
+category#com.example.omarf.onlineordering
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\71594611034d62ecc8d72ec43ebf39d2\AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\19aefe59bdd2cf4117a249421f56ebac\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\2b118fe7cfcce49362281622db6567c6\AndroidManifest.xml:10:13-77
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Momen\.gradle\caches\transforms-2\files-2.1\db929eaad778f843bab2c975b0cc67d6\AndroidManifest.xml:24:13-83

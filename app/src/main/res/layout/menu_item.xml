@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    app:cardElevation="4dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/background4"
+            android:id="@+id/menu_image"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:textColor="@android:color/white"
+            android:background="#4f0e0d0e"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:id="@+id/menu_name"
+            android:text="Name of Menu"
+            android:layout_alignParentBottom="true"
+
+            />
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
